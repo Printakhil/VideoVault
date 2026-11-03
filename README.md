@@ -486,10 +486,13 @@ Before opening a pull request:
 6. Verify the local AI workflow.
 7. Check that no credentials, sessions, private media, or generated personal data are included.
 
-## 📄 License
+## License
 
-No license is specified by this README. Add a license file if you intend to grant others permission to use, modify, and distribute this project. Until then, do not assume the repository is licensed for reuse.
+VideoVault is licensed under the MIT License.
 
+Copyright (c) 2026 Akhil.
+
+See the [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
