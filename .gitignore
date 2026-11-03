@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+
+# Downloaded media
+downloads/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local tools
+tools/
+
+# Logs and caches
+*.log
+.DS_Store
